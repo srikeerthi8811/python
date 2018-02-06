@@ -1,0 +1,13 @@
+import random
+count=0
+while(count<=100):
+            a=input("enter 'r' to roll adice")
+            if(a=='r'):
+                     r=random.randint(1,6)
+                     count=count+r
+            if (count==8):
+            count 37
+            print("snake climed the lader")
+            elif(count==11):
+            count=2
+            print("snake climed the ladder")

@@ -1,0 +1,16 @@
+p="cmr"
+q="university"
+r=p=q
+print("r")
+p=" cmr "
+q=" university "
+r=p+q
+print(r)
+p="cmr"
+q=222
+r=p+q
+print(r)
+p="cmr"
+q=(3)
+r=p*q
+print(r)

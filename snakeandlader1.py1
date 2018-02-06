@@ -1,0 +1,6 @@
+if num > 8:
+    print("Positive number")
+elif num == 8:
+    print("eight")
+else:
+    print("Negative number")
